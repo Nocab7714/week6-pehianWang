@@ -1,0 +1,1 @@
+import{_ as c}from"./_plugin-vue_export-helper-c27b6911.js";import{o as e,c as o}from"./index-49b33024.js";const r={};function t(n,s){return e(),o("div",null,"後台產品列表")}const f=c(r,[["render",t]]);export{f as default};
